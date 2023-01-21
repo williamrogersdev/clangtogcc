@@ -12,7 +12,7 @@
 
 g++ --version<br>
   
-If you have no made any changes it is most likely the clang version of C++
+If you have no made any changes it is most likely the clang version of g++
   </p>
 
   
