@@ -22,7 +22,7 @@ If you have no made any changes it is most likely the clang version of g++
   <h2> Steps to Switch from clang to g++ on mac </h2> <br>
 
 <ul>
-<li>Install g++ through [homebrew](url)(https://brew.sh/) or xcode.</li>
+<li>Install g++ through [homebrew](https://brew.sh/) or xcode.</li>
 
  ```
  brew install gcc
