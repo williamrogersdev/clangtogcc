@@ -11,8 +11,9 @@
 <p>Check to see if you have g++ installed by typing in the terminal: <br>
 
 ```
-g++ --version<br>
+g++ --version
 ``` 
+  <br>
  
 If you have no made any changes it is most likely the clang version of g++
   </p>
