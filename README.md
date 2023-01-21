@@ -38,5 +38,7 @@ If you have no made any changes it is most likely the clang version of g++
 
 $(which g++-12) returns the path for the command g++-12</p>
 
+<p>This works for gcc as well</p>
+
 
 
