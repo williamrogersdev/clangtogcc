@@ -1,4 +1,4 @@
-<h1>How to switch from clang to g++ on mac M1 chip. <h1>
+<h1>How to switch from clang to g++ on mac M1 and intel chip. <h1>
 
 
 <p>On the mac the g++ compiler is disguised as clang. Here is a simple way to change it</p> 
