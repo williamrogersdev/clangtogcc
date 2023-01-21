@@ -2,6 +2,7 @@
 
 
 <p>On the mac the g++ compiler is disguised as clang. Here is a simple way to change it</p> 
+  <br>
 
 
 
@@ -20,10 +21,11 @@ If you have no made any changes it is most likely the clang version of C++
 <li>Check out the version you just installed, probably 12th or higher</li>
 <li>You can make a symbolic link from g++-12 to g++ (this is for being able to call g++-12 with just typing g++). In order to do it, just type in your terminal sudo ln -s $(which g++-12) /usr/local/bin/g++.</li>
 
-<p>sudo ln -s pathSource pathDestination creates a symbolic link from pathSource to pathDestination.
+<li>sudo ln -s pathSource pathDestination creates a symbolic link from pathSource to pathDestination.</li>
 
-$(which g++-12) returns the path for the command g++-12, that in your case is /opt/homebrew/bin/g++-10. <br>
-</p>
+<li>$(which g++-12) returns the path for the command g++-12</li>
+
+  <br>
 
 </ul>
 
