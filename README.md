@@ -30,7 +30,13 @@ If you have no made any changes it is most likely the clang version of g++
 ```
 
 <li>Check out the version you just installed, probably 12th or higher</li>
-<li>You can make a symbolic link from g++-12 to g++ (this is for being able to call g++-12 with just typing g++). In order to do it, just type in your terminal:<br> </li>
+
+
+```
+g++ --version
+``` 
+
+<li>Now you need to make a symbolic link from g++-12 to g++ (this is for being able to call g++-12 with just typing g++). In order to do it, just type in your terminal:<br> </li>
 
 
   
