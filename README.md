@@ -41,7 +41,8 @@ g++ --version
 
   
  ```
-sudo ln -s $(which g++-12) /usr/local/bin/g++.
+sudo ln -s $(which g++-12) /usr/local/bin/g++
+
 ```
   <li><p>Now open a new terminal and check your version again and you should see  g++ instead of clang </p>
 </li>
