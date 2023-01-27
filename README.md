@@ -47,7 +47,17 @@ sudo ln -s $(which g++-12) /usr/local/bin/g++
   <li><p>Now open a new terminal and check your version again and you should see  g++ instead of clang </p>
 </li>
 
+  
+   <li><p>If that does not work try typing out the entire path where g++ is on your machine </p>
+</li>
+   
 
+   ```
+sudo ln -s /opt/homebrew/bin/g++-12 /usr/local/bin/
+```
+
+  
+  
   <br>
 
 </ul>
