@@ -24,7 +24,6 @@ If you have no made any changes it is most likely the clang version of g++
 <ul>
 <li>Install g++ through [homebrew](https://brew.sh) or xcode.</li>
   <li>If Using homebrew type in the following to install:</li>
-
  ```
  brew install gcc
 ```
